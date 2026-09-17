@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734729967684",
+    "firebase_url": "https://japee-8b9b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "japee-8b9b7",
+    "storage_bucket": "japee-8b9b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734729967684:android:e49fb20e8813a5ba02c411",
+        "android_client_info": {
+          "package_name": "com.mayma4545.Alertify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734729967684-iha310cha1vspmai77p8b4qecpprr6ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMVm1kkzw3jHOjzSfdKqHTPhP8-Plfqtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734729967684-iha310cha1vspmai77p8b4qecpprr6ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
